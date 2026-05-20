@@ -1,0 +1,17 @@
+{
+  "/": [
+    "00 - 09 The Basics",
+    "10 - 19 Arcade Class"
+  ],
+  "/00 - 09 The Basics": [
+    "00. Sitemap"
+  ],
+  "/10 - 19 Arcade Class": [
+    "10. Arcade Class",
+    "11. Arcade"
+  ],
+  "/10 - 19 Arcade Class/11. Arcade": [
+    "11.00. Arcade",
+    "11.05. Pinball"
+  ]
+}
