@@ -14,7 +14,11 @@
   ],
   "/10 - 19 Arcade Class/11. Arcade": [
     "11.00. Arcade Genre",
-    "11.03. Arcade Maze"
+    "11.01. Ball and Paddle",
+    "11.02. Block Breaker",
+    "11.03. Arcade Maze",
+    "11.04. Arcade Snake",
+    "11.05. Pinball"
   ],
   "/10 - 19 Arcade Class/12. Shooting": [
     "12.00. Shooting Genre",
