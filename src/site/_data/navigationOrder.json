@@ -5,12 +5,16 @@
     "02. Taxonomy",
     "03. Rating System",
     "04. Find Games!",
+    "05. FAQ",
     "10 - 19 Arcade Class"
   ],
   "/10 - 19 Arcade Class": [
     "10. Arcade Class",
     "11. Arcade",
-    "12. Shooting"
+    "12. Shooting",
+    "13. Brawling",
+    "14. Racing",
+    "16. Platforming"
   ],
   "/10 - 19 Arcade Class/11. Arcade": [
     "11.00. Arcade Genre",
@@ -31,5 +35,14 @@
     "12.07. Platforming Shooter",
     "12.08. Gallery Shooter",
     "12.09. Rail Shooter"
+  ],
+  "/10 - 19 Arcade Class/13. Brawling": [
+    "13.00. Brawling Genre"
+  ],
+  "/10 - 19 Arcade Class/14. Racing": [
+    "14.00. Racing Genre"
+  ],
+  "/10 - 19 Arcade Class/16. Platforming": [
+    "16.00. Platforming Genre"
   ]
 }
