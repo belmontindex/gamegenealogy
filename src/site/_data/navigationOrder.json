@@ -6,7 +6,16 @@
     "03. Rating System",
     "04. Find Games!",
     "05. FAQ",
-    "10 - 19 Arcade Class"
+    "10 - 19 Arcade Class",
+    "20 - 29 Adventure Class",
+    "30 - 39 Social Class",
+    "40 - 49 Project Class",
+    "50 - 59 Packs",
+    "60 - 69 Perspectives",
+    "70 - 79 Modifiers",
+    "80 - 89 Aesthetics",
+    "90 - 99 Resources",
+    "100. Future Directions"
   ],
   "/10 - 19 Arcade Class": [
     "10. Arcade Class",
@@ -44,5 +53,46 @@
   ],
   "/10 - 19 Arcade Class/16. Platforming": [
     "16.00. Platforming Genre"
+  ],
+  "/20 - 29 Adventure Class": [
+    "21. Adventure",
+    "20. Adventure Class"
+  ],
+  "/20 - 29 Adventure Class/21. Adventure": [
+    "21.00. Adventure Genre"
+  ],
+  "/30 - 39 Social Class": [
+    "30. Social Class"
+  ],
+  "/40 - 49 Project Class": [
+    "40. Project Class"
+  ],
+  "/50 - 59 Packs": [
+    "50. Packs"
+  ],
+  "/60 - 69 Perspectives": [
+    "60. Perspectives"
+  ],
+  "/70 - 79 Modifiers": [
+    "70. Modifiers",
+    "72. Roguelike"
+  ],
+  "/80 - 89 Aesthetics": [
+    "80. Aesthetics"
+  ],
+  "/90 - 99 Resources": [
+    "90. Resources",
+    "91. Companies",
+    "92. People",
+    "93. Franchises"
+  ],
+  "/90 - 99 Resources/91. Companies": [
+    "91.00. Companies"
+  ],
+  "/90 - 99 Resources/92. People": [
+    "92.00. People"
+  ],
+  "/90 - 99 Resources/93. Franchises": [
+    "93.00. Franchises"
   ]
 }
